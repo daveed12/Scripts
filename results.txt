@@ -1,0 +1,4 @@
+/home/David:/bin/bash
+myscript.sh
+results.txt
+testing.sh
